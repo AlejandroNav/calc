@@ -69,15 +69,23 @@ header{
     width: 1.25em;
     height: 1em;
 }
+.btn2{
+    font-size: 30px;
+    margin: .05em;
+    border-radius: 5px;
+    background-color: rgb(192, 27, 156);
+    width: 75px;
+    height: 60px;
+}
 #textyScreen{
-    width: 4em;
-    font-family:'dotty Regular' ;
-    font-size: 4em;
+    width: 6.6em;
+    /* font-family:'dotty Regular' ; */
+    font-size: 2.4em;
     text-align: right;
     border: 3px solid rgba(150, 7, 119, 0);
     margin: 1rem;
-    color: rgb(189, 5, 149);
-    background-color: rgba(12, 82, 82, 0.336);
+    color: rgb(233, 127, 210);
+    background-color: rgba(5, 48, 48, 0.575);
     border-radius: 5px;
     
 }
