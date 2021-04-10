@@ -41,3 +41,38 @@ table {
 }
 
 /* my custom csss */
+
+@font-face {
+    font-family: "dotty Regular";
+    src: url(dotty.regular.ttf);
+}
+body{
+    font-family: 'dotty Regular';
+    font-size: 20px;
+}
+header{
+    font-size: 2em;
+    text-align: center;
+    margin: 2em;
+}
+.btn{
+    font-family:'dotty Regular' ;
+    font-size: 3em;
+    margin: .05em;
+    border-radius: 5px;
+    border: 4px solid rgba(38, 228, 47, 0.1);
+    background-color: rgb(129, 21, 106);
+    width: 1.25em;
+    height: 1em;
+}
+#textyScreen{
+    width: 5.3em;
+    font-family:'dotty Regular' ;
+    font-size: 3em;
+    text-align: right;
+    border: 3px solid red;
+    margin: 1rem;
+}
+.tablas{
+    margin: 1rem;
+}
